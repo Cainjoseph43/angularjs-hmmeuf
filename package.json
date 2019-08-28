@@ -1,0 +1,18 @@
+{
+  "name": "angularjs-hmmeuf",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.22",
+    "angular": "^1.7.8",
+    "angular-animate": "^1.7.8",
+    "angular-aria": "^1.7.8",
+    "angular-material": "^1.1.20",
+    "angular-messages": "^1.7.8",
+    "build": "^0.1.4",
+    "eslint-plugin-angular": "^4.0.1",
+    "gulp": "^4.0.2",
+    "run": "^1.4.0",
+    "yeoman-generator": "^4.0.1"
+  }
+}
